@@ -592,7 +592,7 @@ types-passlib==1.7.7.20240106
     # via onyx
 types-pillow==10.2.0.20240822
     # via onyx
-types-psutil==7.1.3.20251125
+types-psutil==7.2.1.20260116
     # via onyx
 types-psycopg2==2.9.21.10
     # via onyx
