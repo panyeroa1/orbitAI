@@ -1264,7 +1264,7 @@ urllib3==2.6.3
     #   sentry-sdk
     #   trafilatura
     #   types-requests
-uvicorn==0.35.0
+uvicorn==0.40.0
     # via
     #   fastmcp
     #   mcp
