@@ -256,7 +256,7 @@ exceptiongroup==1.3.0
     # via
     #   braintrust
     #   fastmcp
-fakeredis==2.33.0
+fakeredis==2.35.1
     # via pydocket
 fastapi==0.128.0
     # via
