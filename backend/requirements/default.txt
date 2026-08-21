@@ -506,7 +506,7 @@ kombu==5.5.4
     # via celery
 kubernetes==31.0.0
     # via onyx
-langchain==0.3.23
+langchain==1.3.15
     # via onyx
 langchain-core==0.3.81
     # via
